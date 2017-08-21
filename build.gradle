@@ -21,3 +21,12 @@ allprojects {
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
+
+ext {
+    TARGET_SDK_VERSION = 25
+    MIN_SDK_VERSION = 16
+
+    FASTJSON_VERSION = "1.1.+"
+
+}
+

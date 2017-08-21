@@ -1,4 +1,4 @@
-package com.wurq.isv.speech;
+package com.wurq.module.speech;
 
 import org.junit.Test;
 
